@@ -1,0 +1,175 @@
+Monday:
+	0-1 am: Work
+	1-2 am: Work
+	2-3 am: Work
+	3-4 am: Work
+	4-5 am: Work
+	5-6 am: Work
+	6-7 am: Work
+	7-8 am: Work
+	8-9 am: Work
+	9-10 am: Work
+	10-11 am: Work
+	11-12 am: Work
+	0-1pm: Work
+	1-2pm: Work
+	2-3pm: Work
+	3-4pm: Work
+	4-5pm: Work
+	5-6pm: Work
+	6-7pm: 
+	7-8pm: 
+	8-9pm: 
+	9-10pm: 
+	10-11pm: 
+	11-12pm: 
+Tuesday:
+	0-1 am: Work
+	1-2 am: Work
+	2-3 am: Work
+	3-4 am: Work
+	4-5 am: Work
+	5-6 am: Work
+	6-7 am: Work
+	7-8 am: Work
+	8-9 am: Work
+	9-10 am: Work
+	10-11 am: Work
+	11-12 am: Work
+	0-1pm: Work
+	1-2pm: Work
+	2-3pm: Work
+	3-4pm: Work
+	4-5pm: Work
+	5-6pm: Work
+	6-7pm: 
+	7-8pm: 
+	8-9pm: 
+	9-10pm: 
+	10-11pm: 
+	11-12pm: 
+Wednesday:
+	0-1 am: Work
+	1-2 am: Work
+	2-3 am: Work
+	3-4 am: Work
+	4-5 am: Work
+	5-6 am: Work
+	6-7 am: Work
+	7-8 am: Work
+	8-9 am: Work
+	9-10 am: Work
+	10-11 am: Work
+	11-12 am: Work
+	0-1pm: Work
+	1-2pm: Work
+	2-3pm: Work
+	3-4pm: Work
+	4-5pm: Work
+	5-6pm: Work
+	6-7pm: 
+	7-8pm: 
+	8-9pm: 
+	9-10pm: 
+	10-11pm: 
+	11-12pm: 
+Thursday:
+	0-1 am: Work
+	1-2 am: Work
+	2-3 am: Work
+	3-4 am: Work
+	4-5 am: Work
+	5-6 am: Work
+	6-7 am: Work
+	7-8 am: Work
+	8-9 am: Work
+	9-10 am: Work
+	10-11 am: Work
+	11-12 am: Work
+	0-1pm: Work
+	1-2pm: Work
+	2-3pm: Work
+	3-4pm: Work
+	4-5pm: Work
+	5-6pm: Work
+	6-7pm: 
+	7-8pm: 
+	8-9pm: 
+	9-10pm: 
+	10-11pm: 
+	11-12pm: 
+Friday:
+	0-1 am: Work
+	1-2 am: Work
+	2-3 am: Work
+	3-4 am: Work
+	4-5 am: Work
+	5-6 am: Work
+	6-7 am: Work
+	7-8 am: Work
+	8-9 am: Work
+	9-10 am: Work
+	10-11 am: Work
+	11-12 am: Work
+	0-1pm: Work
+	1-2pm: Work
+	2-3pm: Work
+	3-4pm: Work
+	4-5pm: Work
+	5-6pm: Work
+	6-7pm: 
+	7-8pm: 
+	8-9pm: 
+	9-10pm: 
+	10-11pm: 
+	11-12pm: 
+Saturday:
+	0-1 am: Work
+	1-2 am: Work
+	2-3 am: Work
+	3-4 am: Work
+	4-5 am: Work
+	5-6 am: Work
+	6-7 am: Work
+	7-8 am: Work
+	8-9 am: Work
+	9-10 am: Work
+	10-11 am: Work
+	11-12 am: Work
+	0-1pm: Work
+	1-2pm: Work
+	2-3pm: Work
+	3-4pm: Work
+	4-5pm: Work
+	5-6pm: Work
+	6-7pm: 
+	7-8pm: 
+	8-9pm: 
+	9-10pm: 
+	10-11pm: 
+	11-12pm: 
+Sunday:
+	0-1 am: Work
+	1-2 am: Work
+	2-3 am: Work
+	3-4 am: Work
+	4-5 am: Work
+	5-6 am: Work
+	6-7 am: Work
+	7-8 am: Work
+	8-9 am: Work
+	9-10 am: Work
+	10-11 am: Work
+	11-12 am: Work
+	0-1pm: Work
+	1-2pm: Work
+	2-3pm: Work
+	3-4pm: Work
+	4-5pm: Work
+	5-6pm: Work
+	6-7pm: 
+	7-8pm: 
+	8-9pm: 
+	9-10pm: 
+	10-11pm: 
+	11-12pm: 
